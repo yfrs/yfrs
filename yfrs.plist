@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.yfrs.gov.cn/download/YfRs_1.11.ipa</string>
+                   <string>http://www.yfrs.gov.cn/download/YfRs_1.13.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -26,13 +26,13 @@
                <key>bundle-identifier</key>
                <string>com.gddlkj.projects.299YfRs</string>
                <key>bundle-version</key>
-               <string>1.11</string>
+               <string>1.13</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>云浮人社移动服务平台</string>
                <key>title</key>
-               <string>云浮人社移动服务平台1.11</string>
+               <string>云浮人社移动服务平台1.13</string>
            </dict>
        </dict>
    </array>
