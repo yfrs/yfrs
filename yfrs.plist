@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.yfrs.gov.cn/download/YfRs_1.13.ipa</string>
+                   <string>http://www.yfrs.gov.cn/download/YfRs_1.14.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -32,7 +32,7 @@
                <key>subtitle</key>
                <string>云浮人社移动服务平台</string>
                <key>title</key>
-               <string>云浮人社移动服务平台1.13</string>
+               <string>云浮人社移动服务平台1.14</string>
            </dict>
        </dict>
    </array>
